@@ -1,0 +1,14 @@
+###
+GET http://localhost:3333/transactions
+
+###
+GET http://localhost:3333/transactions?type=income
+
+###
+GET http://localhost:3333/transactions?_sort=createdAt
+
+###
+GET http://localhost:3333/transactions?_sort=createdAt&_order=desc
+
+###
+GET http://localhost:3333/transactions?q=ham
