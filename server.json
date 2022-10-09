@@ -15,6 +15,14 @@
             "category": "Food",
             "price": 60,
             "createdAt": "2022-10-07T14:15:25.863Z"
+        },
+        {
+            "id": 3,
+            "description": "Node Js",
+            "type": "outcome",
+            "category": "Education",
+            "price": 2450,
+            "createdAt": "2022-10-07T14:15:40.863Z"
         }
     ]
 }
